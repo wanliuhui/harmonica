@@ -22,7 +22,7 @@ public class Payment {
 		} else {
 		System.out.println("调用失败");
 		}
-		
+		System.out.println("12346765432");
 	}
 	
 }
