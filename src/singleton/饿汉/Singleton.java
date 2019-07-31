@@ -17,6 +17,10 @@ public class Singleton {
 		
 	}
 	
+	/**
+	 * hfaofoaufo
+	 * @return
+	 */
 	public static Singleton getInstance(){
 		return instance;
 	}
